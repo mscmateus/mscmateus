@@ -23,4 +23,4 @@ I'm a fullstack developer, I love burgers and bugs
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
 </div>
 <br/>
-Mede in Acre, Brasil
+From Acre, Brasil
